@@ -33,5 +33,5 @@ A collection of resources I found useful when learning to use Ansible to manage 
 
 ## Books
 
-- [Ansible for DevOps - Jeff Geerling](hhttps://www.jeffgeerling.com/project/ansible-devops)
+- [Ansible for DevOps - Jeff Geerling](https://www.jeffgeerling.com/project/ansible-devops)
 - [Automate Your Network - John Capobianco](https://github.com/f5devcentral/terraform-azure-bigip-module)
